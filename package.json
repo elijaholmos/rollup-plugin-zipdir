@@ -1,6 +1,6 @@
 {
 	"name": "rollup-plugin-zipdir",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Rollup plugin to zip the entire output directory",
 	"author": "Elijah Olmos",
 	"main": "dist/index.cjs",
